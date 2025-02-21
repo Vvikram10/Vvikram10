@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Developer/Software Engineer with love Python/Django/DjangoRestApI
 - 🌱 I’m currently learning Python New Libraries and explore them like how can i implement in projects
 - 💞️ I’m looking to collaborate on Python with AWS and many Microservices
-- 📫 Reach out to me at [www.linkedin.com/vvikram10].
+- 📫 Reach out to me at [https://www.linkedin.com/vvikram10].
 - 😄 Pronouns: vikram
 - ⚡ Fun fact: ...
 
