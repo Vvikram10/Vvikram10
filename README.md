@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 🐍 Experienced in **Python**, with a deep interest in **Django** & **Django REST Framework**
 - 🌱 Currently exploring advanced **Python libraries** and integrating them into real-world projects  
 - 🤝 Looking to collaborate on projects involving **Python**, **AWS**, and **Microservices Architecture**
-- 📫 Reach out to me on [vikram verma](https://www.linkedin.com/in/vvikram10)
+- 📫 Reach out to me on LinkedIn [vikram verma](https://www.linkedin.com/in/vvikram10)
 - 🌐 Portfolio: [vikram10.pythonanywhere.com](https://vikram10.pythonanywhere.com/)
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: I believe debugging is like detective work — you're just searching for clues!
