@@ -40,12 +40,13 @@ You can click the Preview link to take a look at your changes.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vvikram10&show_icons=true&theme=radical" alt="Vvikram10's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vvikram10&show_icons=true&theme=radical&cache_seconds=60" alt="Vvikram10's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vvikram10&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vvikram10&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 
 ---
 
