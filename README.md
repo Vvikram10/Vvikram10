@@ -42,6 +42,18 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vvikram10&theme=radical&no-bg=true&margin-w=5" />
 </p>
+- English (Intermediate)
+- Hindi (Native)
+
+Currently learning
+
+CI/CD with GitHub Actions
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vvikram10&theme=react-dark&bg_color=1a1b27&hide_border=true" />
+</p>
 
 
 
