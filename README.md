@@ -1,6 +1,16 @@
 <h1 align="center">Hey there! 👋 I'm Vikram Verma</h1>
 <h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🧠 Tech Explorer</h3>
 
+## 👨‍💻 About Me
+
+- 💻 Passionate **Software Engineer** who loves writing clean and scalable code  
+- 🐍 Experienced in **Python**, with a deep interest in **Django** & **Django REST Framework**
+- 🌱 Currently exploring advanced **Python libraries** & **Microservices**
+- 🤝 Open to collaborate on projects involving **Python**, **React**, **AWS**, **Machine Learning**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vvikram10)
+- 🌐 Portfolio: [vikram10.pythonanywhere.com](https://vikram10.pythonanywhere.com/)
+- 😄 Pronouns: `he/him`
+- ⚡ Fun fact: Debugging is like detective work — you're just searching for clues!
 
 
 ### 🧠 Languages & Libraries
