@@ -26,3 +26,17 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-004b6f?logo=seaborn&logoColor=white&style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
+
+## 🚀 Featured Projects
+
+### 🔹 [E-Commerce Backend API](https://github.com/Vvikram10/ecommerce-api)
+🛒 Django REST-based backend for an e-commerce site with JWT auth and PostgreSQL.
+
+**Tech Stack:** Django, DRF, PostgreSQL, Docker
+
+### 🔹 [Portfolio Website](https://vikram10.pythonanywhere.com)
+📂 A responsive personal portfolio built using React and hosted with PythonAnywhere.
+
+**Tech Stack:** React, Tailwind CSS, Django, REST API
+
+
