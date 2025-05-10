@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [E-Commerce Backend API](https://github.com/Vvikram10/ecommerce-api)
+### 🔹 [E-Commerce Backend API](https://github.com/Vvikram10/backend)
 🛒 Django REST-based backend for an e-commerce site with JWT auth and PostgreSQL.
 
 **Tech Stack:** Django, DRF, PostgreSQL, Docker
@@ -38,5 +38,10 @@
 📂 A responsive personal portfolio built using React and hosted with PythonAnywhere.
 
 **Tech Stack:** React, Tailwind CSS, Django, REST API
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vvikram10&theme=radical&no-bg=true&margin-w=5" />
+</p>
+
 
 
