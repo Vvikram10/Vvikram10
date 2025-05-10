@@ -48,10 +48,33 @@
 📂 A responsive personal portfolio built using React and hosted with PythonAnywhere.
 
 **Tech Stack:** React, Tailwind CSS, Django, REST API
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vvikram10&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vvikram10&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vvikram10&theme=radical&no-bg=true&margin-w=5" />
 </p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vvikram10&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
 - English (Intermediate)
 - Hindi (Native)
 
@@ -59,11 +82,7 @@ Currently learning
 
 CI/CD with GitHub Actions
 
-## 📊 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vvikram10&theme=react-dark&bg_color=1a1b27&hide_border=true" />
-</p>
 
 
 
