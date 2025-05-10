@@ -75,12 +75,13 @@
 </p>
 
 ---
+Language:
 - English (Intermediate)
 - Hindi (Native)
 
-Currently learning
+Currently learning :
 
-CI/CD with GitHub Actions
+CI/CD with AWS using Codebuild and using Jenkins
 
 
 
