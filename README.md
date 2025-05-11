@@ -28,7 +28,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 ![React Native](https://img.shields.io/badge/-ReactNative-20232a?logo=react&logoColor=61DAFB&style=flat)
 ![Zustand](https://img.shields.io/badge/-Zustand-000?logo=zotero&style=flat)
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ### 📊 Data & ML
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
