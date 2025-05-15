@@ -74,7 +74,6 @@
 
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vvikram10&theme=react-dark&bg_color=1a1b27&hide_border=true&custom_time=NOW" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vvikram10&theme=react-dark&bg_color=1a1b27&hide_border=true&timestamp=20250515" />
 
 </p>
 
