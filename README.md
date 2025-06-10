@@ -47,9 +47,9 @@
 **Tech Stack:** Django, DRF, PostgreSQL, Docker
 
 ### 🔹 [Portfolio Website](https://vikram10.pythonanywhere.com)
-📂 A responsive personal portfolio built using React and hosted with PythonAnywhere.
+📂 A responsive personal portfolio built using HTML CSS Javascript Bootstrap Python Django and hosted with PythonAnywhere.
 
-**Tech Stack:** React, Tailwind CSS, Django, REST API
+**Tech Stack:** HTML CSS Javascript Bootstrap, Django, REST API
 ## 📈 GitHub Stats
 
 <p align="center">
